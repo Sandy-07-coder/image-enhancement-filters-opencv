@@ -65,12 +65,15 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** ____________________________  
-- **Register No:** ______________________  
+- **Name:** : Santhosh K
+- **Register No:** 212225040379
 
 ---
 
 ##  Output
+
+<img width="864" height="469" alt="image" src="https://github.com/user-attachments/assets/289f048c-d2e2-415c-9310-2876555628e7" />
+
 
 ### Smoothing Filters
 
